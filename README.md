@@ -1,4 +1,4 @@
-# Vehicle Route Figure Generator
+# Vehicle Route Figure Generator with 'matplotlib'
 
 ## How to run (Linux/macOS)
 
